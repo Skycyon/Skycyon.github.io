@@ -632,6 +632,10 @@ https://templatemo.com/tm-538-digital-trend
     }
   }
 
+  .btn-primary {
+    background-color: #108494;
+    color: white;
+  }
   @media screen and (min-width: 991px) {
 
     .project h2 {
